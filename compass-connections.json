@@ -1,0 +1,44 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "29acd54c-5f38-46aa-a446-33edcfe739d5",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1754538530139"
+        }
+      },
+      "favorite": {
+        "name": "RESTAURANT"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjoxLCJzdGF0ZSI6W119"
+        }
+      }
+    },
+    {
+      "id": "db0cdaea-221b-44af-9a6c-03d5b681eebd",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1754538540983"
+        }
+      },
+      "favorite": {
+        "name": "Senthikumar"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjoxLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
